@@ -25,7 +25,7 @@ SECRET_KEY = '(e(!qo6&m7@hys8=^jz9jv92qm(g$$*xn_blu0b_%cp5#@vbe6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*','artgateway.azurewebsites.net']
 
 
 # Application definition
